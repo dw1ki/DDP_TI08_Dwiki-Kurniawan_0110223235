@@ -1,0 +1,6 @@
+print("Dwiki Kurniawan, 0110223235, TI08, JL. H. Mendik")
+print("Rizki Fadilah, 0110223256, TI08, Bekasi")
+print(13+13)
+print(130-13)
+print(13*13)
+print(130/13)
